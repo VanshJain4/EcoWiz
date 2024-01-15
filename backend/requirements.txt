@@ -1,0 +1,12 @@
+jupyter
+notebook
+fastai
+glob2
+scikit-learn
+pandas
+numpy
+seaborn
+flask
+werkzeug
+streamlit 
+ultralytics
